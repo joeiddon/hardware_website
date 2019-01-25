@@ -25,7 +25,7 @@ let page_links = document.getElementById('page_links');
 
 for (let page of page_names){
     let li = document.createElement('li');
-    li.innerHTML = `<a href=pages/${page[0]}>${page[0]}</a> - ${page[1]}`;
+    li.innerHTML = `<a href=pages/${page[0]}.html>${page[0]}</a> - ${page[1]}`;
     page_links.appendChild(li);
 }
 </script>
