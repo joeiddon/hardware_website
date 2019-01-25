@@ -1,0 +1,166 @@
+<html>
+<head>
+	<title>Solid State Drives</title>
+	<style type="text/css">
+	.boxed {
+		border: 1px solid black;
+		height: auto;
+		width: 80%;
+		background: #e6e6e6;
+		text-align: center;
+		margin: 10px;
+		float: left;
+	} 
+
+	h3{
+		text-align: center;
+		text-decoration: underline;
+	}
+
+	ul {
+		text-align: left;
+		margin-right: 25%;
+	}
+
+	.right-panel {
+		position: fixed;
+		top: 20px;
+		right: 10px;
+		width: 15%;
+		height: 90%;
+		border: 1px solid black;
+		background: #eeeeee;
+
+	}
+
+	img{
+		height: 10%;
+		width: 100%;
+	}
+
+	</style>
+</head>
+<body>
+	<h1>Solid State Drives</h1>
+	<div class="boxed">
+		
+		<details>
+			<summary><h3>What do they do?</h3></summary>
+			<p>Solid state drives are a type of storage technology that used flash memory to allow rapid and low latency access to data. This is in contrast to solid state drives which read data from a physical platter.</p>
+		</details>
+	</div>
+	<div class="boxed">
+		<details>
+			<summary>
+				<h3>
+					Advantages of solid state storage
+				</h3>
+			</summary>
+			<p>
+				<ul>
+					<li>Faster data read</li>
+					<li>Faster data write</li>
+					<li>Less moving parts; withstand shock, vibration, heat, etc.</li>
+					<li>More compact</li>
+					<li>Easy to scale</li>
+					<li>Lower start-up time</li>
+					<li>Less noise</li>
+					<li>Can operate at any altitude</li>
+					<li>Lower power use</li>
+
+				</ul>
+			</p>
+		</details>
+	</div>
+	<div class="boxed">
+		<details>
+			<summary><h3>Disadvantages of Solid State Storage</h3></summary>
+			<p>
+				<ul>
+					<li>More expensive</li>
+					<li>Unproven technology for long-term storage</li>
+					<li>Require power to preserve data long-term; data loss will occur after ~2 years without power</li>
+					<li>Hard to securely erase data</li>
+				</ul>	
+			</p>
+		</details>
+	</div>
+	<div class="boxed">
+		<details>
+			<summary><h3>Components</h3></summary>
+			<p>
+				<ul>
+					<li>
+						NAND Flash chips.
+					</li>
+					<li>
+						Shroud
+					</li>
+					<li>
+						Host Interface
+					</li>
+					<li>
+						Battery
+					</li>
+					<li>
+						Catch/buffer
+					</li>
+					<li>
+						Memory Controller
+					</li>
+				</ul>
+			</p>
+		</details>
+	</div>
+
+	<div class="boxed">
+		<details>
+			<summary><h3>Form Factors</h3></summary>
+			<p>
+				<ul>
+					<li>
+						SATA 2.5"
+					</li>
+					<li>
+						NVMe 
+					</li>
+					<li>
+						PCIe
+					</li>
+					<li>
+						M.2
+					</li>
+				</ul>
+				Other form factors are less common but also exist.
+			</p>
+		</details>
+	</div>
+
+	<div class="boxed">
+		<details>
+			<summary><h3>Sales</h3></summary>
+			<p>227 million units sold in 2017. Revenue was $585 million in 2008 - doubling from 2007. They are common in laptops as well as desktops - in the former they are used due to space constraints whilst in the latter they are used  for their higher speeds. </p>
+		</details>
+	</div>
+
+	<div class="right-panel">
+		<p>
+			Useful Links
+			<ul>
+				<li>
+					<a href="https://en.wikipedia.org/wiki/Solid-state_drive">Wikipeda</a> 
+				</li>
+				<li>
+					<a href="https://www.pcmag.com/article2/0,2817,2404258,00.asp">SSDs vs HDDs</a>
+				</li>
+			</ul>
+			<img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.56FuZcE-weReK0h2E8lpVAHaFd%26pid%3D15.1&f=1">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Super_Talent_2.5in_SATA_SSD_SAM64GM25S.jpg/1200px-Super_Talent_2.5in_SATA_SSD_SAM64GM25S.jpg">
+			<img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.PaeXY3o2BJFvD_7QsXISvgHaF7%26pid%3D15.1&f=1">
+			<img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.alza.cz%2Ffoto%2Flegendfoto%2Fintel-SSD.png&f=1">
+			<img src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.eurogamer.net%2F2012%2Farticles%2Fa%2F1%2F4%2F4%2F8%2F4%2F5%2F4%2FInsideanSSD.jpg.jpg&f=1">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mtron_SSD.jpg/440px-Mtron_SSD.jpg">
+		</p>
+	</div>
+</body>
+</html>

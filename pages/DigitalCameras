@@ -1,0 +1,19 @@
+Digital Cameras: 
+
+Digital cameras work much like ordinary still film cameras, but digital has some major differences.  
+Analogue film cameras work by opening a shutter which creates a small hole (the aperture) that allows light to enter through at least one set of lenses. Different sets of lenses and adjustments allow for improved 
+focus and targeting distant objects. The light that has entered through the aperture reaches a film, where it causes small chemical reactions that store the image on the light sensitive celluloid. 
+Similarly, digital cameras also open a shutter and an aperture allows light to pass through the lens. Digital cameras instead of containing film, have electronic sensors which make up a grid of photo sensors to record the incoming pattern of light. 
+The lens uses mirrors to focus light onto the sensor devices.  Each sensor returns an electrical current when it’s struck by incoming light. The different levels of current recorded allow the camera to make up patterns of millions of pixels that 
+make a recreation of the image digitally. The resolution of the camera is dependent on how well the sensor devices can record the image to the smallest details. Lower quality sensors may create blurring or pixilation due to less details being able to be recorded.
+A string of binary and numbers code each pixel which describes the details of that particular pixel. This recorded data is stored on removable storage such as RAM cards, hard drives or SD cards.
+The light detector has two types, a charge-coupled device (CCD) or a CMOS image sensor.
+
+CCD and CMOS Devices: 
+The charge recorded is transported across the chip and read at one corner of the grid. An analogue-to-digital converter turns each pixel's value into a digital value. CMOS devices however, there are several transistors at each pixel that amplify and move the charge, this allows each pixel to be read individually. 
+
+Differences:
+CCD usually creates higher quality sensors that are more susceptible to light sensitivity than CMOS. CCDs consume as much as 100 times more power than an equivalent CMOS sensor. CCDs are usually more expensive than CMOS. 
+Due to these differences, CCDs tend to be used in cameras that focus on high-quality images with lots of pixels and excellent light sensitivity.
+
+
