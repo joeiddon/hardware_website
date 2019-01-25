@@ -9,9 +9,9 @@
 
 <p>The different hardware items:</p>
 <ul id='page_links'>
-
-
 </ul>
+
+<a href='https://github.com/joeiddon/hardware_website'>Source code and instructions for writing your page here</a>
 <script>
 'use strict';
 
@@ -20,12 +20,12 @@ let page_names = ['template'];
 let page_links = document.getElementById('page_links');
 
 for (let page of page_names){
-	let li = document.createElement('li');
-	let a = document.createElement('a');
-	a.innerText = page;
-	a.href = page_dir + '/' + page + '.html';
-	li.appendChild(a);
-	page_links.appendChild(li);
+    let li = document.createElement('li');
+    let a = document.createElement('a');
+    a.innerText = page;
+    a.href = page_dir + '/' + page + '.html';
+    li.appendChild(a);
+    page_links.appendChild(li);
 }
 </script>
 
