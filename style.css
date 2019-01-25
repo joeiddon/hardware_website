@@ -4,9 +4,15 @@ body {
     font-size: 30px;
 }
 
-h1, p, ul, a {
+h1, p, li {
+    font-family: sans-serif;
     padding: 5px;
     background-color: #fff;
+    color: #000;
+}
+
+ul {
+    color: #fff;
 }
 
 h1 {
